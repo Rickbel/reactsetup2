@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom';
 
-const title = 'hola como estas ';
+const title = 'hola Ricardo ';
 
 ReactDOM.render(
      <div> {title} </div>,
